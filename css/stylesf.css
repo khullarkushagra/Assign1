@@ -90,7 +90,7 @@ header::after{
 	content:" ";
 	clear:both;
 	display: block;
-	visibility: none;
+	visibility: hidden;
 }
 
 .sty_art{ 
